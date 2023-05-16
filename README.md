@@ -77,6 +77,9 @@ Bar plot: Top 10 bowlers with most 'Player of the Match' awards<br>
 
 
 # Conclusion and Insights<br>
+
+These are just a few of the insights derived from the analysis. For a more detailed analysis and additional insights, please refer to the Jupyter Notebook.<br>
+<br>
 Based on the analysis, here are some conclusions and insights:<br>
 
 Mumbai Indians (MI) has the highest number of Player of the Match awards.<br>
@@ -92,8 +95,6 @@ The most successful team in terms of wins is Mumbai Indians (MI), followed by Ch
 The win percentage of teams varies across seasons, indicating fluctuations in performance.<br>
 
 Teams have a higher chance of winning when they choose to field first after winning the toss.<br>
-
-These are just a few of the insights derived from the analysis. For a more detailed analysis and additional insights, please refer to the Jupyter Notebook.<br>
 
 David Warner has been a consistent performer in IPL with a significant number of runs scored, especially in fours and sixes.<br>
 
